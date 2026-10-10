@@ -69,5 +69,3 @@ jobs:
 
       - name: Show site URL
         run: 'echo "site: https://ybcdidou.github.io/gate/ (deploy outcome: ${{ steps.deployment.outcome }})"'
-
-        
